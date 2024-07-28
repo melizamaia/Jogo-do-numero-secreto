@@ -1,4 +1,6 @@
-Para jogar escolha um número entre 1 e 10.
+<h1 tetext-align:center>Jogo do número secreto</h1>
+
+- Para jogar escolha um número entre 1 e 10.
 
 Deploy result:
 
